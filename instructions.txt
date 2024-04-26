@@ -1,0 +1,5 @@
+this python gui file is a simple file shredder that randomly overwrites the data 3 times and it is changeable and then deletes the file
+
+<<<  it only shredds text files only >>>
+<<< Make sure that the file which you want to shred is useless and it cannot be retrieved >>>
+
